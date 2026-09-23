@@ -4,4 +4,4 @@ builder = "DOCKERFILE"
 [deploy]
 restartPolicyType = "ON_FAILURE"
 restartPolicyMaxRetries = 10
-DISCORD_TOKEN=MTUxMjkyMzM3MjkxMTMzMzQ4Nw.GRGZmN.Ia6he3ysoa7xPSxyu7DaflLEiAG3P8axPUY334
+DISCORD_TOKEN=
